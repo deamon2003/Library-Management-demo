@@ -16,8 +16,11 @@
 
 [+] Enter your choice: 
 
+## To clone this repository
+- git clone https://github.com/deamon2003/Library-Management-demo.git
+
 ## **To build**
  - make
  - ./build/Library_Management
 
-
+  
